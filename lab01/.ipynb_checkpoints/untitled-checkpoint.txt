@@ -1,0 +1,11 @@
+Name,Age,City,Occupation,Salary
+John Doe,28,New York,Software Engineer,85000
+Jane Smith,34,Los Angeles,Data Scientist,95000
+Emily Jones,24,Chicago,Graphic Designer,52000
+Chris Lee,40,Houston,Project Manager,105000
+Michael Brown,31,San Francisco,Data Analyst,78000
+Sarah Wilson,29,Boston,Marketing Manager,68000
+David Kim,35,Seattle,Machine Learning Engineer,120000
+Olivia Davis,27,Denver,UX Designer,73000
+Daniel Martinez,45,Phoenix,Product Manager,110000
+Sophia Garcia,30,Atlanta,Business Analyst,82000
